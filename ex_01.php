@@ -8,5 +8,4 @@ function printArray($tableau)
         echo "{$key} => {$value}\n";
     }
 }
-printArray(array("lala", 2, "lolo", 4));
 ?>
